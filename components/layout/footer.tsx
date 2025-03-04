@@ -47,7 +47,7 @@ export default async function Footer() {
           </p>
           <hr className="mx-4 hidden h-4 w-[1px] border-l border-neutral-400 md:inline-block" />
           <p>
-            <a href="https://ifamouz.com">View the source</a>
+            <a href="https://ifamouz.com">About the Store</a>
           </p>
           <p className="md:ml-auto">
 
